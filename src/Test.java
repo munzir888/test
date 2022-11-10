@@ -9,4 +9,7 @@ public class Test {
     public void setString(String string) {
         this.string = string;
     }
+    public  String   zzz(){
+       return string+" this is name ";
+    }
 }
